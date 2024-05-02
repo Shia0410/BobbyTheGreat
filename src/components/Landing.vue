@@ -11,7 +11,7 @@
         </v-col>
       </v-row>
     </v-container>
-    <gallery />
+    <Gallery />
 
 
 
@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import gallery from './Gallery.vue'
+import Gallery from './Gallery.vue'
 
 export default {
   name: 'Landing',
